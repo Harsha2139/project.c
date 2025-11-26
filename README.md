@@ -70,10 +70,16 @@ The system shall load the saved data automatically when the program starts.
 
 5. HOW TO RUN THE C PROGRAM
 Using GCC
-
 Save the program as: citizen_records.c
 
 Open terminal / command prompt
+
+Compile
+
+Save the program as: citizen_records.c
+
+<img width="394" height="382" alt="Screenshot 2025-11-26 212406" src="https://github.com/user-attachments/assets/14f420e7-d938-4f12-9689-88dadafce944" />
+
 
 Compile
 
