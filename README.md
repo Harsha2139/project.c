@@ -79,9 +79,13 @@ Compile
 Save the program as: citizen_records.c
 
 <img width="394" height="382" alt="Screenshot 2025-11-26 212406" src="https://github.com/user-attachments/assets/14f420e7-d938-4f12-9689-88dadafce944" />
-
-
-Compile
+<img width="375" height="250" alt="Screenshot 2025-11-26 212425" src="https://github.com/user-attachments/assets/85f3ffdb-f6eb-40e3-98f8-7d86f7cb71db" />
+<img width="451" height="352" alt="Screenshot 2025-11-26 212459" src="https://github.com/user-attachments/assets/02e883e2-bce4-440e-8a14-e3772131bc2f" />
+<img width="321" height="234" alt="Screenshot 2025-11-26 212519" src="https://github.com/user-attachments/assets/b020ba0d-5724-4504-ae69-616b7cf07a64" />
+<img width="350" height="277" alt="Screenshot 2025-11-26 212538" src="https://github.com/user-attachments/assets/499ead57-67e4-4cbe-b398-9bda4f3eb045" />
+<img width="358" height="128" alt="Screenshot 2025-11-26 212549" src="https://github.com/user-attachments/assets/8a355e4e-276d-48eb-8db4-f882908c3db1" />
+<img width="422" height="307" alt="Screenshot 2025-11-26 212602" src="https://github.com/user-attachments/assets/b2e25363-e44e-42cf-b3f7-3a31cbe61717" />
+<img width="422" height="618" alt="Screenshot 2025-11-26 212623" src="https://github.com/user-attachments/assets/8f3a2718-9a58-4619-bbc0-5db21bf9b880" />
 
 
 
